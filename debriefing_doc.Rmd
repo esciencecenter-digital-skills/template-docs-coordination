@@ -5,6 +5,7 @@ params:
   YYYYMMDD: YYYY-MM-DD
   set_title: "Debriefing doc"
   file: data.csv
+  slug: "slug"
   show_text: TRUE
 ---
 
