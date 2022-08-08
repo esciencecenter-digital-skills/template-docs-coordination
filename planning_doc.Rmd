@@ -3,6 +3,7 @@ title: "planning_doc"
 output: word_document
 params:
   YYYYMMDD: YYYY-MM-DD
+  slug: slug
   sharepoint: [sharepoint]
   workshop_website: [workshop website]
   registration_page: [registration page]
