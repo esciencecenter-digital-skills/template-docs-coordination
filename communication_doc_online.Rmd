@@ -30,6 +30,7 @@ params:
   file: (data.csv)
   lesson_url: (lesson URL)
   lesson_url_ref: (lesson URL ref)
+  slug: (slug)
   show_text: yes
 ---
 
