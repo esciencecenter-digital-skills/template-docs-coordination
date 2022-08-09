@@ -3,6 +3,7 @@ title: "comm_doc"
 output:
   word_document: default
   pdf_document: default
+  html_document: default
 params:
   YYYYMMDD: YYYY-MM-DD
   workshop: (workshop)
