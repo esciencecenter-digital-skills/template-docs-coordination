@@ -56,7 +56,7 @@ knitr::opts_chunk$set(echo = TRUE)
 `r params$synopsis`
   
 ### Eventbrite long description: (around 150 words)  
-**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. 
+**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. Please note that lunch and drinks at the end of the workshop are included. 
 
 `r params$description`
 
@@ -83,7 +83,7 @@ Hello,
 
 The Netherlands eScience Center is organizing a workshop in `r params$month`. The topic is “`r params$workshop`”. The workshop is open and free to all researchers in the Netherlands at PhD candidate level and higher. We do not accept registrations by Master students.
 
-**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. 
+**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. Please note that lunch and drinks at the end of the workshop are included. 
 
 **`r params$workshop`**  
 `r params$date`  
