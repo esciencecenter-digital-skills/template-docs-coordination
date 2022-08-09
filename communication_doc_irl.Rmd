@@ -52,10 +52,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Title: `r params$workshop`  
 `r params$date`, `r params$venue`, on location in person
 
-### Eventbrite short description (140 characters)  
+### Eventbrite short description: (140 characters)  
 `r params$synopsis`
   
-### Eventbrite long description (around 150 words)  
+### Eventbrite long description: (around 150 words)  
 **This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. 
 
 `r params$description`
@@ -71,7 +71,7 @@ The workshop is open and free to all researchers in the Netherlands at PhD candi
 ### Requirements: 
 `r params$setup`
 
-### Syllabus
+### Syllabus:
 `r params$syllabus`
 
 ------  
