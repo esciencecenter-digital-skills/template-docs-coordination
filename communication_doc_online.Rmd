@@ -211,10 +211,10 @@ Sacha van Breugel
 
 Links  
 [1] [post-workshop survey link]  
-[2] `r paste0(params$repo, "files")` 
-[3] `r params$lesson_url`
+[2] `r paste0(params$repo, "files")`  
+[3] `r params$lesson_url`  
 [4] https://twitter.com/esciencecenter  
-[5] https://www.esciencecenter.nl/digital-skills/ 
+[5] https://www.esciencecenter.nl/digital-skills/  
 [6] http://eepurl.com/dtjzwP
 
 
