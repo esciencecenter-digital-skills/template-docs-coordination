@@ -171,7 +171,7 @@ Sacha van Breugel
 Links  
 [1] [pre-workshop survey link]  
 [2] `r paste0(params$workshop_website_url, '/#setup')`  
-[3] directions 
+[3] directions   
 [4] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration   
 [5] `r params$workshop_website_url`  
 
@@ -221,7 +221,7 @@ Sacha van Breugel
 
 Links  
 [1] [post-workshop survey link]  
-[2] `r paste0(params$repo, "files")` 
+[2] `r paste0(params$repo, "files")`  
 [3] `r params$lesson_url`  
 [4] https://twitter.com/esciencecenter   
 [5] https://www.esciencecenter.nl/digital-skills/  
