@@ -137,14 +137,14 @@ Hello,
 Thank you for attending our `r params$workshop` workshop this week. We hope that you had fun and learned a lot of useful skills. 
 
 If you haven’t already, please be sure to complete our (post-workshop survey)[post-workshop survey] [1]. Your answers are essential to allow us to continuously improve our workshops for future learners.  
+
+You will shortly be able to find all the notebooks and collaborative documents from the workshop in [the files directory of the workshop repository](`r paste0(params$repo, "/tree/main/files")`) [2]. All the lesson material used in the lesson can be found [here](`r params$lesson_url_ref`) [3].
   
-You will shortly be able to find all the notebooks and collaborative documents from the workshop in [the files directory of the workshop repository](`r paste0(params$repo, "/tree/main/files")`) [2]. All the lesson material used in the lesson can be found `r params$lesson_url_ref` [3].
+If you have any other feedback about the workshop, or would like to get involved in organising workshops, please contact the eScience Center training team at [training@esciencecenter.nl](mailto:training@esciencecenter.nl).  
   
-If you have any other feedback about the workshop, or would like to get involved in organising workshops, please contact the eScience Center training team at training@esciencecenter.nl.  
+You can also follow us on [Twitter](https://twitter.com/esciencecenter) [4]. We are continuously organising training events. You can find the list of upcoming events on the Center’s [website]([https://www.esciencecenter.nl/digital-skills/](https://www.esciencecenter.nl/events/?f-workshops/)) [5].  
   
-You can also follow us on [Twitter](https://twitter.com/esciencecenter) [4]. We are continuously organising training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/digital-skills/) [5].  
-  
-We would also like to encourage you to subscribe to our [email updates](http://eepurl.com/dtjzwP) [6] and select an Invitation for Workshops option to get invited to training and related events organised by the Netherlands eScience Center.
+We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select an Invitation for Workshops option to get invited to training and related events organised by the Netherlands eScience Center.
 
 On behalf of the eScience Center Training Team,
 
@@ -154,8 +154,7 @@ Links
 [1] [post-workshop survey link]  
 [2] `r paste0(params$repo, "/tree/main/files")`  
 [3] `r params$lesson_url`  
-[4] https://twitter.com/esciencecenter  
-[5] https://www.esciencecenter.nl/digital-skills/  
+[4] https://twitter.com/esciencecenter   
+[5] https://www.esciencecenter.nl/events/?f-workshops/ 
 [6] http://eepurl.com/dtjzwP
-
 
