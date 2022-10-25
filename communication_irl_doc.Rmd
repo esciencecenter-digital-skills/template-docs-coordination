@@ -207,7 +207,7 @@ Thank you for attending our `r params$workshop` workshop this week. We hope that
 
 If you haven’t already, please be sure to complete our (post-workshop survey)[post-workshop survey] [1]. Your answers are essential to allow us to continuously improve our workshops for future learners.  
   
-You will shortly be able to find all the notebooks and collaborative documents from the workshop in [the files directory of the workshop repository](`r paste0(params$repo, "/files")`) [2]. All the lesson material used in the lesson can be found `r params$lesson_url_ref` [3].
+You will shortly be able to find all the notebooks and collaborative documents from the workshop in [the files directory of the workshop repository](`r paste0(params$repo, "/tree/main/files")`) [2]. All the lesson material used in the lesson can be found `r params$lesson_url_ref` [3].
   
 If you have any other feedback about the workshop, or would like to get involved in organising workshops, please contact the eScience Center training team at training@esciencecenter.nl.  
   
@@ -221,7 +221,7 @@ Sacha van Breugel
 
 Links  
 [1] [post-workshop survey link]  
-[2] `r paste0(params$repo, "/files")`  
+[2] `r paste0(params$repo, "/tree/main/files")`  
 [3] `r params$lesson_url`  
 [4] https://twitter.com/esciencecenter   
 [5] https://www.esciencecenter.nl/digital-skills/  
