@@ -159,7 +159,7 @@ Sacha van Breugel
 Links  
 [1] [post-workshop survey link]  
 [2] `r paste0(params$repo, "/tree/main/files")`  
-[3] `r params$lesson_url`  
+[3] `r params$lesson_url_ref`  
 [4] https://twitter.com/esciencecenter   
 [5] https://www.esciencecenter.nl/events/?f-workshops/ 
 [6] http://eepurl.com/dtjzwP
