@@ -115,7 +115,7 @@ Links
 
 Hello,
 
-This is just a reminder for the [workshop title] workshop on `r params$date`.
+This is just a reminder for the `r params$workshop` workshop on `r params$date`.
 
 If you won’t be able to attend, please cancel your registration (by following instructions [here](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration) [1])  so that we can offer your seat to someone on the waiting list.
 
