@@ -56,7 +56,7 @@ knitr::opts_chunk$set(echo = TRUE)
 `r params$synopsis`
   
 ### Eventbrite long description: (around 150 words)  
-**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.** The workshop will take place at `r params$location`. Please note that lunch and drinks at the end of the workshop are included. 
+The workshop will take place at `r params$location`. Please note that lunch and drinks at the end of the workshop are included. 
 
 `r params$description`
 
@@ -80,7 +80,7 @@ Hello,
 
 We are excited for the `r params$workshop` workshop on `r params$date`, and hope you are too. 
 
-**This workshop will be delivered in person, unless new COVID-19 restrictions are put in place.*** The workshop will take place at `r params$location`. 
+The workshop will take place at `r params$location`. 
 
 A few notes:
 
@@ -112,7 +112,6 @@ Links
 [4] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration   
 [5] `r params$workshop_website_url`  
 
-`* In case restrictions that make in-person workshops impossible are put in place due to COVID-19, this workshop will be moved online. The schedule for the online workshop will be different from the in-person workshop. 
 
 ------
 
