@@ -41,16 +41,36 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### [Lead Instructor is an Instructor who is also responsible for some of the preparatory tasks as well as hosting most of the workshop. They also have the responsibilities of an Instructor (see below).]  
 
+* The lead instructor is the responsible person for making sure the workshop is well organized and all content is accessible.
+* Prepares general introduction (see slides for NLeSCs intro) + icebreaker.
+* Makes sure to gather feedback from the participants at least every 4 hours (carpentries guidelines) for example via asking for tip/tops.
+* Prepares planning, calibration and debriefing meetings.
+
 ### Instructors:  `r params$instructor`
 
 #### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
+
+* When not teaching, an instructor can do the following things:
+* Add more information or helps the other instructor to clarify some points.
+* Checks the room for people that are have questions or having difficulties following and can bring this to the attention of the teaching instructor to suggest to spend more time on a certain topic (only if necessary).
+* Can tell teaching Instructor when to slow down or speed up.
+* Walks around to help attendees with small questions.
 
 ### Helpers: `r params$helper`
 
 #### [Follow the chat and the collaborative document during the workshop, and answer participants’ questions. Also help them troubleshoot issues. They bring up questions to instructor’s attention if they think the question is relevant and timely]  
  
-
 ### Helper roles:  
+
+#### In-person workshop host  
+
+* Welcomes everyone at the entrance of the workshop room (usually upstairs in the Matrix building, Sacha or Fenne will be downstairs).
+* Gives people their badges and sticky notes.
+* Checks people off the participants list (please do this every day, not just on day 1).
+* Checks the room for people that have questions or are having difficulties following and can bring this to the attention of the instructors to suggest to spend more time on a certain topic (only if necessary).
+* Walks around to help attendees with small questions.
+* Can tell teaching Instructor when to slow down or speed up.
+* Writes down things that went well and things to improve in the debriefing document.
 
 #### Zoom host  
 
@@ -64,6 +84,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Answers questions in the chat  
 * Brings questions and issues to the attention of the teaching Instructor  
 * Tells teaching Instructor when to slow down or speed up  
+* Writes down things that went well and things to improve in the debriefing document.
 
 #### Note keeper:  
 (ideally not the person who was teaching on that day)   
@@ -84,7 +105,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### YYYY-MM-DD
 
-### Roll Call 
+### Roll Call for this meeting
 
 #### Discussion Points & Notes 
 
@@ -96,7 +117,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### YYYY-MM-DD 
 
-### Roll Call 
+### Roll Call for this meeting
 
 #### Discussion Points & Notes 
 
@@ -105,9 +126,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * Select curriculum  
 * Assign teaching  
 * Assign helpers’ roles (designated survivor, Zoom Host, Note taker)  
-* Assign Tasks in Planner, set deadlines. 
 * Decide on setup sessions
 * Additional pre-workshop survey questions needed?
 * One person needed to help setting up and restoring the classroom
+* Assign Tasks in Planner, set deadlines. 
 
 
