@@ -37,30 +37,32 @@ knitr::opts_chunk$set(echo = TRUE)
 * Participants Spreadsheet 
 * Zoom Link 
 
-### Lead Instructor:  `r params$lead_instructor`
+### Training team:  `r params$training_team`
 
-#### [Lead Instructor is an Instructor who is also responsible for some of the preparatory tasks as well as hosting most of the workshop. They also have the responsibilities of an Instructor (see below).]  
-
-* The lead instructor is the responsible person for making sure the workshop is well organized and all content is accessible.
-* Prepares general introduction (see slides for NLeSCs intro) + icebreaker.
-* Makes sure to gather feedback from the participants at least every 4 hours (carpentries guidelines) for example via asking for tip/tops.
-* Prepares planning, calibration and debriefing meetings.
-
-### Instructors:  `r params$instructor`
-
-#### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
-
-* When not teaching, an instructor can do the following things:
+### Training team general roles:  
+When not teaching, an training team member can do the following things:
 * Add more information or helps the other instructor to clarify some points.
 * Checks the room for people that are have questions or having difficulties following and can bring this to the attention of the teaching instructor to suggest to spend more time on a certain topic (only if necessary).
 * Can tell teaching Instructor when to slow down or speed up.
 * Walks around to help attendees with small questions.
 
-### Helpers: `r params$helper`
+### Lead Instructor:  `r params$lead_instructor`
+#### [Lead Instructor is an Instructor who is also responsible for some of the preparatory tasks as well as hosting most of the workshop. They also have the responsibilities of an Instructor (see below).]  
+### Lead instrucgtor specific roles:  
 
+* The lead instructor is the responsible person for making sure the workshop is well organized and all content is accessible.
+* Prepares the workshop website, collaborative documents, and exercises document.
+* Prepares general introduction (see slides for NLeSCs intro) + icebreaker.
+* Makes sure to gather feedback from the participants at least every 4 hours (carpentries guidelines) for example via asking for tip/tops.
+* Prepares planning, calibration and debriefing meetings.
+
+### Instructors:  `r params$instructor`
+#### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
+
+### Helpers: `r params$helper`
 #### [Follow the chat and the collaborative document during the workshop, and answer participants’ questions. Also help them troubleshoot issues. They bring up questions to instructor’s attention if they think the question is relevant and timely]  
  
-### Helper roles:  
+### Helper specific roles:  
 
 #### In-person workshop host  
 
@@ -112,6 +114,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Pre-workshop survey 
 * Welcome procedure 
 * Review Tasks 
+* Make sure the training team can contact eachother in case a train is delayed or someone gets sick (confirm your way of communication via whatapp/teams/any way you prefer).
 
 ## Planning meeting (3 weeks before the workshop) 
 
@@ -122,7 +125,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Discussion Points & Notes 
 
 * Confirm the Lead Instructor (chairs the meeting)
-* Assign note taker (one of the helpers)
+* Assign note taker for this meeting (one of the helpers)
 * Select curriculum  
 * Assign teaching  
 * Assign helpers’ roles (designated survivor, Zoom Host, Note taker)  
