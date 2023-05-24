@@ -44,7 +44,7 @@ When not teaching, a training team member can do the following things:
 * Add more information or help the other instructor to clarify some points.
 * Check the room for people that have questions or are having difficulties following and can bring this to the attention of the teaching instructor to suggest spending more time on a certain topic (only if necessary).
 * Can tell teaching Instructor when to slow down or speed up.
-* Walks around to help attendees with small questions.
+* Be on the lookout for help post-its. Walk around to help attendees with small questions.
 
 ### Lead Instructor:  `r params$lead_instructor`
 #### [Lead Instructor is an Instructor who is also responsible for some of the preparatory tasks as well as hosting most of the workshop. They also have the responsibilities of an Instructor (see below).]  
