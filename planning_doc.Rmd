@@ -55,7 +55,7 @@ When not teaching, a training team member can do the following things:
 * Prepares general introduction (see slides for NLeSCs intro) + icebreaker.
 * Makes sure to gather feedback from the participants at least every 4 hours (carpentries guidelines) for example via asking for tip/tops.
 * Prepares planning, calibration and debriefing meetings.
-
+* Ensures that everyone on the team knows their roles and responsibilities.
 ### Instructors:  `r params$instructor`
 #### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
 
