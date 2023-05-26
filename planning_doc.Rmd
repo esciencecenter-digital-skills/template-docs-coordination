@@ -22,14 +22,14 @@ title: `r params$set_title`
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-* Plan in Planner `r params$planner`` 
+* Plan in Planner `r params$planner` 
 * Team Channel 
 * `r params$sharepoint`
 * `r params$workshop_website ` 
 * Workshop Page Source 
 * Lesson Content 
 * Slides (optional) 
-* `r params$registration_page`` 
+* `r params$registration_page` 
 * Collaborative Documents 1,2,3,4 
 * Pre-workshop survey and results 
 * Post-workshop survey and results 
@@ -41,14 +41,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Training team general roles:  
 When not teaching, a training team member can do the following things:
+
 * Add more information or help the other instructor to clarify some points.
 * Check the room for people that have questions or are having difficulties following and can bring this to the attention of the teaching instructor to suggest spending more time on a certain topic (only if necessary).
 * Can tell teaching Instructor when to slow down or speed up.
 * Be on the lookout for help post-its. Walk around to help attendees with small questions.
 
+### Instructors:  `r params$instructor`
+#### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
+
 ### Lead Instructor:  `r params$lead_instructor`
 #### [Lead Instructor is an Instructor who is also responsible for some of the preparatory tasks as well as hosting most of the workshop. They also have the responsibilities of an Instructor (see below).]  
-### Lead instrucgtor specific roles:  
+### Lead instructor specific roles:  
 
 * The lead instructor is the responsible person for making sure the workshop is well organized and all content is accessible.
 * Prepares the workshop website, collaborative documents, and exercises document.
@@ -56,8 +60,6 @@ When not teaching, a training team member can do the following things:
 * Makes sure to gather feedback from the participants at least every 4 hours (carpentries guidelines) for example via asking for tip/tops.
 * Prepares planning, calibration and debriefing meetings.
 * Ensures that everyone on the team knows their roles and responsibilities.
-### Instructors:  `r params$instructor`
-#### [An instructor is a person who teaches in the workshop. There must be two or more instructors (including the Lead Instructor) in every workshop. In the Carpentries workshops (Software Carpentry or Data Carpentry) at least one of the instructors needs to be certified by the Carpentries.]  
 
 ### Helpers: `r params$helper`
 #### [Follow the chat and the collaborative document during the workshop, and answer participants’ questions. Also help them troubleshoot issues. They bring up questions to instructor’s attention if they think the question is relevant and timely]  
@@ -114,7 +116,7 @@ When not teaching, a training team member can do the following things:
 * Pre-workshop survey 
 * Welcome procedure 
 * Review Tasks 
-* Make sure the training team can contact eachother in case a train is delayed or someone gets sick (confirm your way of communication via whatapp/teams/any way you prefer).
+* Make sure the training team can contact each other in case a train is delayed or someone gets sick (confirm your way of communication via whatapp/teams/any way you prefer).
 
 ## Planning meeting (3 weeks before the workshop) 
 
