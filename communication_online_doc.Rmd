@@ -67,6 +67,7 @@ The workshop is open and free to all researchers in the Netherlands at PhD candi
 `r params$who`
 
 ### Syllabus
+
 `r params$syllabus`
 
 ---
