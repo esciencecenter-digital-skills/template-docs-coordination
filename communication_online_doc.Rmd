@@ -58,7 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Eventbrite long description (around 150 words)  
 `r params$description`
 
-The workshop is based on the teaching style of the Carpentries, and learners will follow along while the instructors write the code on screen. More information can be found on the `r params$workshop_website` (will be activated once registration is live).  
+The workshop is based on the teaching style of the Carpentries, and learners will follow along while the instructors write the code on screen. More information can be found on the `r params$workshop_website` (will be activated once registration is live, usually 3 weeks before the start of the workshop).  
   
 ### Audience: 
 The workshop is open and free to all researchers in the Netherlands at PhD candidate level and higher. We do not accept registrations by Master students. The workshop is aimed at PhD candidates and other researchers or research software engineers.  
