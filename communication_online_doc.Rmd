@@ -60,6 +60,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The workshop is based on the teaching style of the Carpentries, and learners will follow along while the instructors write the code on screen. More information can be found on the `r params$workshop_website` (will be activated once registration is live, usually 3 weeks before the start of the workshop).
 
+### Cancellation and No-Show Policy
+Please be advised that by signing up, you agree to our Cancellation and No-Show Policy, which states that cancellations made less than 2 workings days prior to the event will incur a no-show fee. Please read the full policy (here)[https://www.esciencecenter.nl/cancellation-and-no-show-policy-for-escience-center-training-events/] for more details. 
+
 ### Audience:
 The workshop is open and free to all researchers in the Netherlands at PhD candidate level and higher. We do not accept registrations by Master students. The workshop is aimed at PhD candidates and other researchers or research software engineers.
 
