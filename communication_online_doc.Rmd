@@ -63,8 +63,10 @@ The workshop is based on the teaching style of the Carpentries, and learners wil
 ### Cancellation and No-Show Policy
 Please be advised that by signing up, you agree to our Cancellation and No-Show Policy, which states that cancellations made less than 2 workings days prior to the event will incur a no-show fee. Please read the full policy (here)[https://www.esciencecenter.nl/cancellation-and-no-show-policy-for-escience-center-training-events/] for more details. 
 
+If you won’t be able to attend, please cancel your registration (by following the instructions (here) [https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/]) so that we can offer your seat to someone on the waiting list.
+
 ### Audience:
-The workshop is open and free to all researchers in the Netherlands at PhD candidate level and higher. We do not accept registrations by Master students. The workshop is aimed at PhD candidates and other researchers or research software engineers.
+The workshop is aimed at PhD candidates and other researchers or research software engineers. We offer tickets for researchers who are affiliated with Dutch research institutions. We also offer industry tickets for attendees who are not affiliated with Dutch research institutions. We do not accept registrations by Master students.
 
 ### Prerequisite knowledge:
 `r params$who`
@@ -159,7 +161,7 @@ If you have any other feedback about the workshop, or would like to get involved
 
 You can also follow us on [X (former Twitter)](https://twitter.com/esciencecenter) [4]. We are continuously organizing training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/events/?f-workshops/) [5].
 
-We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select an Invitation for Workshops option to get invited to training and related events organized by the Netherlands eScience Center.
+We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select the 'Training' option to get invited to training and related events organized by the Netherlands eScience Center.
 
 On behalf of the eScience Center Training Team,
 
