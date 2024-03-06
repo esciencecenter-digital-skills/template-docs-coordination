@@ -69,8 +69,8 @@ The workshop is aimed at PhD candidates and other researchers or research softwa
 
 ### Ticket prices:
 Ticket prices are as follows:
-For participants affiliated with Dutch research institutions: € FILL_NORMAL_PRICE
-For participants from industry: € FILL_INDUSTRY_PRICE
+- For participants affiliated with Dutch research institutions: € FILL_NORMAL_PRICE
+- For participants from industry: € FILL_INDUSTRY_PRICE
 
 ### Prerequisite knowledge:
 `r params$who`
