@@ -72,7 +72,9 @@ The workshop is aimed at PhD candidates and other researchers or research softwa
 
 ### Ticket prices:
 Ticket prices are as follows:
+
 - For participants affiliated with Dutch research institutions: € FILL_NORMAL_PRICE
+
 - For participants from industry: € FILL_INDUSTRY_PRICE
 
 ### Prerequisites:
@@ -116,10 +118,15 @@ Sacha van Breugel
 
 
 Links
+
 [1] [pre-workshop survey link]
+
 [2] `r paste0(params$workshop_website_url, '/#setup')`
+
 [3] directions
+
 [4] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration
+
 [5] `r params$workshop_website_url`
 
 
@@ -149,9 +156,13 @@ On behalf of the eScience Center Training Team,
 Sacha van Breugel
 
 Links
+
 [1] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration
+
 [2] `r paste0(params$workshop_website_url, '/#setup')`
+
 [3] directions
+
 [4] `r params$workshop_website_url`
 
 
@@ -180,11 +191,17 @@ On behalf of the eScience Center Training Team,
 Sacha van Breugel
 
 Links
+
 [1] [post-workshop survey link]
+
 [2] `r paste0(params$repo, "/tree/main/files")`
+
 [3] `r params$lesson_url`
+
 [4] https://twitter.com/esciencecenter
+
 [5] https://www.esciencecenter.nl/events/?f-workshops/
+
 [6] http://eepurl.com/dtjzwP
 
 
