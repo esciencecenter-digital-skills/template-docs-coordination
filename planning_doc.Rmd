@@ -140,7 +140,7 @@ When not teaching, a training team member can do the following things:
 
 ### Table for keeping hours for external workshops
 
-| Instructor Name | Date | Prep & debriefing Hours | Hours on teaching itself | total hours written |
+| Instructor Name | Date | Prep & follow-up Hours | Hours on teaching itself | total hours written |
 |---|---|---|---|---|
 |   |   |   |   |   |
 
