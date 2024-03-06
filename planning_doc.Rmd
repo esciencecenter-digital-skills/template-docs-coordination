@@ -138,4 +138,9 @@ When not teaching, a training team member can do the following things:
 * One person needed to help setting up and restoring the classroom
 * Assign Tasks in Planner, set deadlines.
 
+### Table for keeping hours for external workshops
+
+| Instructor Name | Date | Prep & debriefing Hours | Hours on teaching itself | total hours written |
+|---|---|---|---|---|
+|   |   |   |   |   |
 
