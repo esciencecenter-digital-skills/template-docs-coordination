@@ -156,6 +156,8 @@ If you haven’t already, please be sure to complete our (post-workshop survey)[
 
 You will shortly be able to find all the notebooks and collaborative documents from the workshop in [the files directory of the workshop repository](`r paste0(params$repo, "/tree/main/files")`) [2]. All the lesson material used in the lesson can be found `r params$lesson_url_ref` [3].
 
+To request a certificate of your training, please email [training@esciencecenter.nl](mailto:training@esciencecenter.nl). Please request your certificate within 8 months after the workshop, as we will delete all personal identifyable information after this period.
+
 If you have any other feedback about the workshop, or would like to get involved in organizing workshops, please contact the eScience Center training team at [training@esciencecenter.nl](mailto:training@esciencecenter.nl).
 
 You can also follow us on [X (former Twitter)](https://twitter.com/esciencecenter) [4]. We are continuously organizing training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/events/?f-workshops/) [5].
