@@ -70,6 +70,11 @@ If you won’t be able to attend, please cancel your registration (by following 
 ### Audience:
 The workshop is aimed at PhD candidates and other researchers or research software engineers. We offer tickets for researchers who are affiliated with Dutch research institutions. We also offer industry tickets for attendees who are not affiliated with Dutch research institutions. We do not accept registrations by Master students. 
 
+### Ticket prices:
+Ticket prices are as follows:
+For participants affiliated with Dutch research institutions: € FILL_NORMAL_PRICE
+For participants from industry: € FILL_INDUSTRY_PRICE
+
 ### Prerequisites:
 `r params$who`
 
