@@ -160,7 +160,7 @@ If you have any other feedback about the workshop, or would like to get involved
 
 You can also follow us on [X (former Twitter)](https://twitter.com/esciencecenter) [4]. We are continuously organizing training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/events/?f-workshops/) [5].
 
-We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select the 'Training' option to get invited to training and related events organized by the Netherlands eScience Center.
+We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select 'Training' to get invited to training and related events organized by the Netherlands eScience Center.
 
 On behalf of the eScience Center Training Team,
 
