@@ -18,6 +18,8 @@ params:
   month: (month)
   day_of_workshop: (day of workshop)
   start_time: (start time)
+  normal_price: (normal price)
+  industry_price: (industry price)
   registration_page: (registration page)
   registration_page_url: (registration page url)
   setup_instructions: (setup instructions link)
@@ -70,9 +72,8 @@ The workshop is aimed at PhD candidates and other researchers or research softwa
 ### Ticket prices:
 Ticket prices are as follows:
 
-- For participants affiliated with Dutch research institutions: € FILL_NORMAL_PRICE
-
-- For participants from industry: € FILL_INDUSTRY_PRICE
+- For participants affiliated with Dutch research institutions: €`r sprintf("%1.2f", params$normal_price)`
+- For participants from industry: €`r sprintf("%1.2f", params$industry_price)`
 
 ### Prerequisite knowledge:
 
