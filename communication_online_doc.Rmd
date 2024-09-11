@@ -75,6 +75,12 @@ Ticket prices are as follows:
 - For participants affiliated with Dutch research institutions: €`r sprintf("%1.2f", params$normal_price)`
 - For participants from industry: €`r sprintf("%1.2f", params$industry_price)`
 
+#### Early Bird Discount 
+Register within the first week of open registration and receive a 25% discount on your participation fee. Don’t miss out on this opportunity to secure your spot at a reduced price!
+
+#### Group Discount 
+Bring your team along and benefit from our group discount. Groups of five or more participants are eligible for a 25% discount. For more details and to register your group, please email us at [training@esciencecenter.nl](mailto:training@esciencecenter.nl). 
+
 ### Prerequisite knowledge:
 
 `r params$who`
