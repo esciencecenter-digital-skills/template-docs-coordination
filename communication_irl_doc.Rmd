@@ -107,11 +107,13 @@ Be sure to complete this (pre-workshop survey)[pre-workshop survey] [1] by midda
 
 You need to bring your own laptop to the workshop. Make sure you have the necessary software installed on your laptop by following the `r params$setup_instructions` [2]. If you have any trouble following the instructions, send us an email.
 
-On the workshop days (`r params$date`), please arrive at the venue at least 15 minutes before the start of the workshop (`r params$start_time`), if possible. That will allow us to start teaching on time. One of our helpers will welcome you at the entrance of the venue and show you to the classroom. Directions to the venue can be found here [3].
+On the workshop days (`r params$date`), please arrive at the venue at least 15 minutes before the start of the workshop (`r params$start_time`), if possible.
+That will allow us to start teaching on time. One of our helpers will welcome you at the entrance of the venue and show you to the classroom.
+Directions to the venue can be found [here](https://maps.app.goo.gl/d4F6Hn8yZsqbEhka7) [3].
 
 During the workshop, the eScience Center will provide lunch. At the end of the workshop, we will provide drinks and an opportunity to network with other course participants, instructors and helpers.
 
-If you won’t be able to attend, please cancel your registration (by following instructions here [4]) so that we can offer your seat to someone on the waiting list.
+If you won’t be able to attend, please cancel your registration (by following instructions [here](https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/) [4]) so that we can offer your seat to someone on the waiting list.
 
 Make sure to keep the `r params$workshop_website` [5] with all the necessary details handy.
 
@@ -130,9 +132,9 @@ Links
 
 [2] `r paste0(params$workshop_website_url, '/#setup')`
 
-[3] directions
+[3] https://maps.app.goo.gl/d4F6Hn8yZsqbEhka7
 
-[4] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration
+[4] https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/
 
 [5] `r params$workshop_website_url`
 
@@ -146,11 +148,13 @@ Hello,
 
 This is just a reminder for the `r params$workshop` workshop on `r params$date`.
 
-If you won’t be able to attend, please cancel your registration (by following instructions [here](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration) [1])  so that we can offer your seat to someone on the waiting list.
+If you won’t be able to attend, please cancel your registration (by following instructions [here](https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/) [1])  so that we can offer your seat to someone on the waiting list.
 
 You need to bring your own laptop to the workshop. Make sure you have the necessary software installed on your laptop by following the `r params$setup_instructions` [2]. If you have any trouble following the instructions, send us an email.
 
-On the workshop days (`r params$date`), please arrive at the venue at least 15 minutes before the start of the workshop (`r params$start_time`), if possible. That will allow us to start teaching on time. One of our helpers will welcome you at the entrance of the venue and show you to the classroom. Directions to the venue can be found here [3].
+On the workshop days (`r params$date`), please arrive at the venue at least 15 minutes before the start of the workshop (`r params$start_time`), if possible.
+That will allow us to start teaching on time. One of our helpers will welcome you at the entrance of the venue and show you to the classroom.
+Directions to the venue can be found [here](https://maps.app.goo.gl/d4F6Hn8yZsqbEhka7) [3].
 
 During the workshop, the eScience Center will provide lunch. At the end of the workshop, we will provide drinks and an opportunity to network with other course participants, instructors and helpers.
 
@@ -164,11 +168,11 @@ Sacha van Breugel
 
 Links
 
-[1] https://www.eventbrite.com/support/articles/en_US/How_To/how-to-cancel-your-free-registration
+[1] https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/
 
 [2] `r paste0(params$workshop_website_url, '/#setup')`
 
-[3] directions
+[3] https://maps.app.goo.gl/d4F6Hn8yZsqbEhka7
 
 [4] `r params$workshop_website_url`
 
@@ -189,7 +193,7 @@ To request a certificate of your training, please email [training@esciencecenter
 
 If you have any other feedback about the workshop, or would like to get involved in organizing workshops, please contact the eScience Center training team at [training@esciencecenter.nl](mailto:training@esciencecenter.nl).
 
-You can also follow us on [X (former Twitter)](https://twitter.com/esciencecenter) [4]. We are continuously organizing training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/events/?f-workshops/) [5].
+You can also follow us on [LinkedIn](https://www.linkedin.com/company/netherlands-escience-center/posts/?feedView=all) [4]. We are continuously organizing training events. You can find the list of upcoming events on the Center’s [website](https://www.esciencecenter.nl/events/?f-workshops/) [5].
 
 We would also like to encourage you to subscribe to our [newsletter](http://eepurl.com/dtjzwP) [6] and select 'Training' to get invited to training and related events organized by the Netherlands eScience Center.
 
@@ -205,7 +209,7 @@ Links
 
 [3] `r params$lesson_url`
 
-[4] https://twitter.com/esciencecenter
+[4] https://www.linkedin.com/company/netherlands-escience-center/posts/?feedView=all
 
 [5] https://www.esciencecenter.nl/events/?f-workshops/
 
