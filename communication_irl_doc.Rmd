@@ -70,7 +70,7 @@ Please be advised that by signing up, you agree to our Cancellation and No-Show 
 If you won’t be able to attend, please cancel your registration (by following the instructions [here](https://www.eventbrite.com/help/en-us/articles/721549/can-i-get-a-refund/)) so that we can offer your seat to someone on the waiting list.
 
 ### Audience:
-The workshop is aimed at PhD candidates and other researchers or research software engineers. We offer tickets for researchers who are affiliated with Dutch research institutions. We also offer industry tickets for attendees who are not affiliated with Dutch research institutions. We do not accept registrations by Master students. 
+The workshop is aimed at PhD candidates, postdocs, (assistant-)professors and other researchers and also open for research support staff and research software engineers. We offer tickets for researchers who are affiliated with Dutch research institutions. We also offer industry tickets for attendees who are not affiliated with Dutch research institutions. We do not accept registrations by Master students. 
 
 ### Ticket prices:
 Ticket prices are as follows:
