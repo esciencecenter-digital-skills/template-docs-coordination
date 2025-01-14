@@ -105,7 +105,7 @@ A few notes:
 
 Be sure to complete this (pre-workshop survey)[pre-workshop survey] [1] by midday tomorrow. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.
 
-You need to bring your own laptop to the workshop. Make sure you have the necessary software installed on your laptop by following the `r params$setup_instructions` [2]. If you have any trouble following the instructions, send us an email.
+You need to bring your own laptop with admin rights to the workshop. Make sure you have the necessary software installed on your laptop by following the `r params$setup_instructions` [2]. If you have any trouble following the instructions, send us an email.
 
 On the workshop days (`r params$date`), please arrive at the venue at least 15 minutes before the start of the workshop (`r params$start_time`), if possible.
 That will allow us to start teaching on time. One of our helpers will welcome you at the entrance of the venue and show you to the classroom.
