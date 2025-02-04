@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * `r params$workshop_website `
 * `r params$workshop_website_source `
 * `r params$lesson_content `
-* Slides (optional)
+* `r params$slides_url`
 * `r params$registration_page`
 * Collaborative Documents 1,2,3,4
 * Pre-workshop survey and results
