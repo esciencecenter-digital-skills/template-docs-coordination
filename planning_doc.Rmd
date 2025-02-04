@@ -9,6 +9,7 @@ params:
   workshop_website_source: [workshop_website_source]
   registration_page: [registration page]
   lesson_content: [lesson_content]
+  slides_url: [slides_url]
   lead_instructor: [lead instructor]
   instructor: [instructor]
   helper: [helper]
